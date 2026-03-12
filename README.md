@@ -1,6 +1,12 @@
 # About Me
 
-I am a quantitative researcher with a background in financial economics, financial engineering, and professional accounting. My work focuses on systematic trading, derivatives, and risk analytics, combining economic intuition with statistical rigor and research workflows designed for real-world applicability. I am particularly interested in building robust, risk-aware quantitative models that translate empirical research into repeatable trading and risk-management systems.
+I am a quantitative researcher and economist with a background in financial economics, financial engineering, and professional accounting. My work spans quantitative finance, systematic trading, and economic research, combining statistical modeling, computational methods, and applied policy analysis.
+
+In quantitative finance, my research focuses on derivatives, systematic trading strategies, portfolio construction, and risk analytics. I build robust and interpretable quantitative models that translate empirical research into practical trading and risk-management systems.
+
+Alongside financial research, I conduct economic research focused on the **Global South**, particularly on economic development, institutional reforms, and evidence-based economic policy design. My research interests include financial market development, macroeconomic stability, industrial growth, and policy frameworks that support sustainable economic transformation in emerging and developing economies.
+
+My long-term goal is to bridge **quantitative financial modeling and economic policy research**, applying data-driven approaches to both financial markets and real-world economic development challenges.
 
 ---
 
@@ -12,15 +18,31 @@ I am a quantitative researcher with a background in financial economics, financi
 
 ## Research Focus
 
-My quantitative work spans the full research lifecycle:
-- Market data acquisition and feature engineering
-- Strategy research and hypothesis testing
-- Risk-adjusted performance evaluation
-- Portfolio construction and drawdown control
-- Paper trading, execution logic, and monitoring
-- Machine learning applications for trading and risk
+My quantitative research spans the full lifecycle of systematic trading and financial modeling:
 
-I primarily work with futures, equities, and options, with an emphasis on robustness, interpretability, and scalability.
+- Market data acquisition and feature engineering  
+- Strategy research and hypothesis testing  
+- Risk-adjusted performance evaluation  
+- Portfolio construction and drawdown control  
+- Paper trading and execution monitoring  
+- Machine learning applications for trading and risk management  
+
+I primarily work with **futures, equities, and options**, focusing on robustness, interpretability, and scalable quantitative systems.
+
+---
+
+## Economic Research Interests
+
+My economic research focuses on development challenges and policy design in the **Global South**, including:
+
+- Economic governance and institutional reforms  
+- Industrial policy and employment generation  
+- Financial market development in emerging economies  
+- Energy economics (hydropower, renewables, infrastructure)  
+- Trade, capital flows, and macroeconomic stability  
+- Evidence-based policy design using econometric methods  
+
+I aim to contribute research that informs **practical policy decisions for sustainable economic development**.
 
 ---
 
@@ -31,8 +53,10 @@ I primarily work with futures, equities, and options, with an emphasis on robust
   University of Wisconsin–Madison  
   Focus: Fixed Income, Econometrics, Machine Learning
 
-- Master of Science in Financial Engineering (In Progress)  
-  WorldQuant University  
+- Master of Arts in Economics    
+  Focus: Econometrics and Development Economics
+
+- Master of Science in Financial Engineering 
   Focus: Quantitative Trading, Derivatives, Algorithmic Systems
 
 ### Professional Credentials
@@ -40,7 +64,7 @@ I primarily work with futures, equities, and options, with an emphasis on robust
   Institute of Chartered Accountants of India
 
 - Capital Markets & Securities Analyst (CMSA)  
-  Corporate Finance Institute
+  Corporate Finance Institute, Canada
 
 ---
 
@@ -71,33 +95,73 @@ Developed risk-focused models incorporating volatility forecasting, Value-at-Ris
 
 ## Software and Tools
 
-Programming and Computing  
-Python, C++, R, SQL, Advanced Excel, Linux
+## Programming
+Python | C++ | R | SQL | Advanced Excel | Linux
 
-Quantitative and Statistical Methods  
-Time-series analysis, econometrics, optimization, machine learning, volatility modeling, portfolio risk
+## Quantitative Methods
+Time Series Analysis  
+Econometrics  
+Optimization  
+Machine Learning  
+Volatility Modeling  
+Portfolio Risk Management
 
-Libraries and Frameworks  
-NumPy, Pandas, Scikit-learn, Statsmodels, Backtrader, Zipline
+## Libraries & Frameworks
+NumPy  
+Pandas  
+SciPy  
+Statsmodels  
+Scikit-learn  
+PyTorch  
+TensorFlow  
+Backtrader  
+Zipline  
 
-Market Data and Analytics Platforms  
-Bloomberg, FactSet, Reuters Eikon, S&P Capital IQ
+## Data & Infrastructure
+Apache Airflow  
+Anaconda  
+MySQL  
+Azure  
+AWS  
+Google Cloud  
 
-Visualization and Reporting  
-Power BI, Tableau, Matplotlib
+## Visualization
+Matplotlib  
+Plotly  
+Power BI  
+Tableau
+
+## Market Data Platforms
+Bloomberg Terminal  
+FactSet  
+Reuters Eikon  
+S&P Capital IQ  
 
 ---
+
 
 ## Professional Interests
 
-I am interested in roles involving:
-- Quantitative research and strategy development
-- Risk analytics and portfolio risk management
-- Derivatives and volatility modeling
-- Systematic trading and execution research
-- Applied machine learning in finance
+I am particularly interested in roles involving:
+
+• Quantitative research and systematic trading  
+• Derivatives and volatility modeling  
+• Risk analytics and portfolio construction  
+• Algorithmic trading infrastructure  
+• Applied machine learning in financial markets  
+• Economic policy research in emerging economies
 
 ---
+
+# Leadership, Awards & Certifications
+
+## Awards
+Nathan S. Brand Award 2025  
+Excellence in Finance & Investment Banking Presentation
+
+## Leadership
+McKinsey & Co. Leadership Program  
+United Nations Delegate
 
 ## Links
 
