@@ -57,6 +57,7 @@ I aim to contribute research that informs **practical policy decisions for susta
   Focus: Econometrics and Development Economics
 
 - Master of Science in Financial Engineering
+  
   Focus: Quantitative Trading, Derivatives, Algorithmic Systems
 
 ### Professional Credentials
