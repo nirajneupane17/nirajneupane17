@@ -1,6 +1,6 @@
 # About Me
 
-I am a quantitative researcher and economist with a background in internatioanl and financial economics, financial engineering, and professional accounting. My work spans quantitative finance, systematic trading, and economic research, combining statistical modeling, computational methods, and applied policy analysis.
+I am a quantitative researcher and economist with a background in international and financial economics, financial engineering, and professional accounting. My work spans quantitative finance, systematic trading, and economic research, combining statistical modeling, computational methods, and applied policy analysis.
 In quantitative finance, my research focuses on derivatives, systematic trading strategies, portfolio construction, and risk analytics. I build robust and interpretable quantitative models that translate empirical research into practical trading and risk-management systems.
 Alongside financial research, I conduct economic research focused on the **Global South**, particularly on economic development, institutional reforms, and evidence-based economic policy design. My research interests include financial market development, macroeconomic stability, industrial growth, and policy frameworks that support sustainable economic transformation in emerging and developing economies.
 My long-term goal is to bridge **quantitative financial modeling and economic policy research**, applying data-driven approaches to both financial markets and real-world economic development challenges.
