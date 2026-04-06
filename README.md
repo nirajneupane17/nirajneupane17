@@ -11,14 +11,14 @@ In quantitative risk, my focus is on building and validating
 risk frameworks, Historical VaR, CVaR, Expected Shortfall, and 
 Monte Carlo simulation with strong emphasis on backtesting, 
 model governance, and robustness across changing market regimes. 
-I build interpretable and production-ready risk models that 
+I build interpretable and production ready risk models that 
 translate empirical research into practical risk monitoring and 
 investment decision-making systems.
 
 Alongside risk modeling, I work extensively in derivatives 
 analytics, including options pricing, Greeks, volatility surface 
 construction, and structured product analysis across equities, 
-FX, and fixed income. I also apply machine learning techniques, XGBoost, LSTM, and feature engineering — to risk estimation, 
+FX, and fixed income. I also apply machine learning techniques, XGBoost, LSTM, and feature engineering to risk estimation, 
 volatility forecasting, and signal research.
 
 My long-term goal is to advance **quantitative risk research**, 
