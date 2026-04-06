@@ -1,7 +1,7 @@
 
 # About Me
 
-I am a Quantitative Risk Analyst with 6+ years of experience in 
+I am a Quantitative Risk Analyst with 5+ years of experience in 
 asset management and banking, specializing in market risk 
 modeling, derivatives analytics, and volatility forecasting. My 
 work combines statistical modeling, computational methods, and 
